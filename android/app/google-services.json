@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23587529061",
+    "project_id": "flixhub-6e16b",
+    "storage_bucket": "flixhub-6e16b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23587529061:android:fac0cdb3fb582bfc3ac18c",
+        "android_client_info": {
+          "package_name": "com.flixhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23587529061-ar29egouajpg79g86d968ejpto39qv0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flixhub",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "23587529061-7tbrugdss8uu5mkfv7iv2msq7fsgfbni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUawGDSfbBhqWhKZ7_5zTP9Q-4bzcnH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23587529061-7tbrugdss8uu5mkfv7iv2msq7fsgfbni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
